@@ -48,5 +48,5 @@
 ---
 
 ## 👩‍💻 Author
-**Aishwarya AK** – Aspiring Data Analyst
+**Aishwarya AR** – Aspiring Data Analyst
 [GitHub](https://github.com/aishwarya-analyst)
